@@ -1,7 +1,9 @@
 # Markdown to HTML Converter
 
 A simple yet powerful **Markdown to HTML converter** that works both as a **command-line tool** and a **lightweight Flask web app**.  
-It supports headings, lists, code blocks, inline formatting, links, images, tables, and even generates automatic SEO metadata.
+It supports headings, lists, code blocks, inline formatting, links, images, tables, and even generates automatic SEO metadata.  
+
+![Project Screenshot](./images/Project_Screenshot.png)
 
 ---
 

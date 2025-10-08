@@ -172,6 +172,7 @@ app.py           # main script
 README.md        # this file
 sample.md        # sample Markdown file
 md_dir/          # directory for batch conversion (contains 5 markdown text samples)
+images/          # project snapshot image folder
 ```
 
 ---

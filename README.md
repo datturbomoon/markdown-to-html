@@ -140,7 +140,6 @@ This is a *sample* **Markdown** document.
 ```python
 print("Hello, world!")
 ```
-```
 
 **Output (HTML):**
 ```html
